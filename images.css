@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(114, 149, 138);
+}
+
+#logo img{
+    position: absolute;
+    height: 50px;
+    width: 150px;
+}
+#right_button{
+    position: absolute;
+    margin-bottom: 100%;
+    margin-left: 85%;
+}
+main{
+    position: relative;
+    display: inline;
+    /* width: 50%; */
+    height: 50%;
+    left: 30%;
+    top: 100px;
+    
+}
+#main_menu{
+    display: inline-block;
+    width: 100%;
+    border-radius: 20;
+    border-color: black;
+    
+}
+
+#right{
+    position: absolute;
+    top: 55%;
+    padding-left:  30%;
+}
+
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+}
