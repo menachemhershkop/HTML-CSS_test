@@ -1,0 +1,58 @@
+#logo img{
+    position: absolute;
+    height: 50px;
+    width: 150px;
+}
+#main_nav{
+    position: absolute;
+    margin-left: 40%;
+}
+#main_nav a{
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    padding: 3px;
+}
+#right_button{
+    position: absolute;
+    margin-left: 85%;
+}
+#form{
+    padding: 30rem;
+    width: 50rem;
+    /* border-color: navajowhite; */
+}
+
+#input{
+    
+    border: none;
+    position: relative;
+    outline: none;
+    border-radius: 5%;
+    height: 10em;
+    width: 50rem;
+    background-color: rgb(241, 244, 244);
+    
+    box-sizing: content-box;
+}
+#form h3{
+    margin-left: 20%;
+    font-size: x-large;
+}
+#input form{
+    box-sizing: 15px;
+}
+#ask{
+    position: relative;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+#buttons{
+    position: relative;
+    margin-top: 5%;
+}
+#voice_bottun{
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 1%;
+}
